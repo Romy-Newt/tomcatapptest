@@ -1,0 +1,5 @@
+com\hema\edgeservice1\EdgeService1Application.class
+com\hema\edgeservice1\service\RigSensorService.class
+com\hema\edgeservice1\model\RigSensor.class
+com\hema\edgeservice1\controller\RigSensorController.class
+com\hema\edgeservice1\repo\RigSensorRepo.class
